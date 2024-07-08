@@ -1,7 +1,7 @@
 ## Introduction
 In this project, we perform sentiment analysis on Amazon Fine Food Reviews using two methods:
-- ** VADER **: A lexicon and rule-based sentiment analysis tool.
-- ** RoBERTa ** : A transformer-based model trained on a large corpus of data.
+- __VADER__: A lexicon and rule-based sentiment analysis tool.
+- __RoBERTa__ : A transformer-based model trained on a large corpus of data.
 
 ## Data
 The dataset used is the Amazon Fine Food Reviews, which can be found on Kaggle. The dataset contains reviews of fine foods from Amazon.
